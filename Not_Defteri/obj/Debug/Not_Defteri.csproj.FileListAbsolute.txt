@@ -1,0 +1,10 @@
+C:\Users\musa1\source\repos\Not_Defteri\Not_Defteri\bin\Debug\Not_Defteri.exe.config
+C:\Users\musa1\source\repos\Not_Defteri\Not_Defteri\bin\Debug\Not_Defteri.exe
+C:\Users\musa1\source\repos\Not_Defteri\Not_Defteri\bin\Debug\Not_Defteri.pdb
+C:\Users\musa1\source\repos\Not_Defteri\Not_Defteri\obj\Debug\Not_Defteri.csprojAssemblyReference.cache
+C:\Users\musa1\source\repos\Not_Defteri\Not_Defteri\obj\Debug\Not_Defteri.Form1.resources
+C:\Users\musa1\source\repos\Not_Defteri\Not_Defteri\obj\Debug\Not_Defteri.Properties.Resources.resources
+C:\Users\musa1\source\repos\Not_Defteri\Not_Defteri\obj\Debug\Not_Defteri.csproj.GenerateResource.cache
+C:\Users\musa1\source\repos\Not_Defteri\Not_Defteri\obj\Debug\Not_Defteri.csproj.CoreCompileInputs.cache
+C:\Users\musa1\source\repos\Not_Defteri\Not_Defteri\obj\Debug\Not_Defteri.exe
+C:\Users\musa1\source\repos\Not_Defteri\Not_Defteri\obj\Debug\Not_Defteri.pdb
